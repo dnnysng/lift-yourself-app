@@ -1,0 +1,25 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.arrowWrapper:nth-of-type(2) {
+  margin-left: 1.5rem;
+}
+
+.arrowWrapper:nth-of-type(1) {
+  margin-right: 1.5rem;
+}
+
+.arrow {
+  width: 20px;
+  height: 20px;
+}
+
+@media (max-width: 300px) {
+  .container {
+    display: none;
+  }
+}
