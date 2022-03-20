@@ -78,6 +78,8 @@ export default function WorkoutDetail({ workoutType, setWorkoutType, data, setDa
           onChange={(e) => handleChange(e, index)}
           placeholder={`Set ${index + 1}`}
           className={style.input}
+          styles={{ input: { textAlign: 'center' } }}
+          size='lg'
         />
       )}
       <div className={style.buttonsWrapper}>
