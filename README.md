@@ -8,13 +8,13 @@ Lift Yourself takes the complexity out of tracking your calisthenics workouts. S
 
 ## Features
 
-- Weekly progress at a glance along with total overall reps
-- A simply UI allowing you to choose between the main 4 calisthenics workout groups
+- Weekly progress at a glance with badges on days worked
+- A simple UI allowing you to choose between the main 4 calisthenics workout groups
 - Add an unlimited amount of sets based on your level of fitness
 
-## Screenshot
+## Preview
 
-![Screenshot](https://i.ibb.co/p0RtP5L/screencapture-liftyourself-app-2022-03-06-23-30-35.png)
+![Mockup](https://i.ibb.co/TB7brKz/mockup-of-two-samsung-galaxy-s10-in-portrait-position-against-a-plain-backdrop-564-el.png)
 
 ## Live
 
